@@ -22,11 +22,11 @@
 
 
 ## Repository information
-This repository accompanies the paper entitled "*Gene signature of children with severe respiratory syncytial virus infection*" that was submitted to the journal **Pediatric Research**. 
+This repository accompanies the paper entitled "*Gene signature of children with severe respiratory syncytial virus infection*" **[(Pediatric Research 2021 Jan doi: 10.1038/s41390-020-01347-9)](https://pubmed.ncbi.nlm.nih.gov/33510411/)**. 
 
 The codes and data provided here are for reproducing the differential gene expression analysis from the paper.
 
-The RNA-seq data can be accessed at NCBI Gene Expression Omnibus database with accession number **GSE155925**.
+The RNA-seq data can be accessed at NCBI Gene Expression Omnibus database with accession number **[GSE155925](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155925)**.
 
 
 ## Software dependencies
@@ -42,4 +42,3 @@ This file contains the unnormalized RNA-seq count data.
 
 ### *patient_data.csv*
 This file contains data on sex, age, severity.
-
